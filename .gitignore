@@ -79,3 +79,13 @@ crashlytics-build.properties
 
 # Ignore ZIP files
 *.zip
+
+# Ignore Unity-generated folders anywhere
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Ignore ZIP archives
+*.zip
